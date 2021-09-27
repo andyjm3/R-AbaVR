@@ -1,10 +1,11 @@
 function [x, info, options] = AdaRSVRG(problem, x, options)
 % The solver is based on the paper
-%@article{han2020variance,
-%  title={Variance reduction for Riemannian non-convex optimization with batch size adaptation},
+%@article{han2021improved,
+%  title={Improved Variance Reduction Methods for Riemannian non-Convex Optimization},
 %  author={Han, Andi and Gao, Junbin},
-%  journal={arXiv:2007.01494},
-%  year={2020}
+%  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+%  year={2021},
+%  publisher={IEEE}
 %}
  
 % Original authors: Andi Han, July, 2020. 
